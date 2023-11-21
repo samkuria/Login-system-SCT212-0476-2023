@@ -1,0 +1,24 @@
+h2{
+    text-decoration: underline;
+    font-style: italic;
+    margin-left: 75px;
+    color: aliceblue;
+}
+body{
+    margin-left: 35px;
+}
+h1{
+    background-color: yellow;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+nav ul{
+    display: flex;
+    flex-direction:row ;
+    gap: 20px;
+    
+}
